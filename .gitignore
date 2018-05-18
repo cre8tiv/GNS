@@ -29,6 +29,21 @@ plugins/android.json
 plugins/ios.json
 www/
 $RECYCLE.BIN/
+.vscode
+.idea
+.DS_STORE
+.awcache
+.module-cache
+.vagrant
+node_modules
+build
+dist
+tmp
+*.log*
+junit-results.xml
+package-lock.json
+.vs
+docs
 
 .DS_Store
 Thumbs.db
