@@ -41,6 +41,7 @@ dist
 tmp
 *.log*
 junit-results.xml
+package-lock.json
 .vs
 docs
 
